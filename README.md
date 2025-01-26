@@ -6,32 +6,25 @@
 
 
 ### Team Members
-- Team Lead: [Grace John] - [SCMS Cochin School of Business]
-- Member 2: [Gowri B] - [SCMS Cochin School of Business]
+- Member 1: Grace John - SCMS Cochin School of Business
+- Member 2: Gowri B - SCMS Cochin School of Business
 
-
+### Hosted Project Link
+https://github.com/gracejohn123/FOOD/blob/main/README.md
+-
 ### Project Description
-abcd d d d 
-[2-3 lines about what your project does]
+go-to platform for discovering amazing deals on surplus food from local restaurants and stores. Not only can you enjoy delicious meals and quality products at discounted prices, but you’re also contributing to reducing food waste and supporting a sustainable future. Where Smart Choices Meet Great Deals.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+In a world where approximately one-third of all food produced is wasted, millions of people face food insecurity daily, and businesses struggle to manage surplus inventory effectively. This contributes to environmental degradation, financial losses, and missed opportunities for community support. Despite growing awareness of sustainability, there is a lack of accessible, affordable, and rewarding platforms that bridge the gap between food waste reduction and consumer needs, leaving untapped potential for both local businesses and eco-conscious individuals.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
-
+Introducing Food, the hero we didn’t know we needed. Imagine a world where every leftover biryani, extra loaf of garlic bread, or unsold box of brownies gets a second chance at happiness! With Food, we’re turning food waste into foodie treasure hunts.
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- HTML, CSS, JAVA SCRIPT
+- Visual Studio, GitHub
 
 ### Implementation
 For Software:
@@ -45,47 +38,12 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-Add caption explaining what this shows
+![alt text](image.png)
+![alt text](image-1.png)
+![alt text](image-2.png)
+![alt text](image-3.png)
 
-![Screenshot2](Add screenshot 2 here with proper name)
-Add caption explaining what this shows
-
-![Screenshot3](Add screenshot 3 here with proper name)
-Add caption explaining what this shows
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-Add caption explaining your workflow
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-Add caption explaining connections
-
-![Schematic](Add your schematic diagram here)
-Add caption explaining the schematic
-
-# Build Photos
-![Components](Add photo of your components here)
-List out all components shown
-
-![Build](Add photos of build process here)
-Explain the build steps
-
-![Final](Add photo of final product here)
-Explain the final build
-
-### Project Demo
-# Video
-[Add your demo video link here]
-Explain what the video demonstrates
-
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Grace John: Platform Development & User Interface, Technical Integrations
+- Gowri B: Concept Development & Market Research, Frontend Content Integration
