@@ -29,10 +29,34 @@ For Software:
 ### Implementation
 For Software:
 # Installation
-[commands]
+This project is built using **HTML, CSS, and JavaScript**, and does not require additional installation. To set up the project locally, follow these steps:
 
-# Run
-[commands]
+1. **Download or Clone the Repository:**
+   ```sh
+   git clone https://github.com/gracejohn123/FOOD.git 
+   ```
+2. **Navigate to the Project Directory:**
+   ```sh
+   cd FOOD  
+   ```
+3. **Open the Project in a Code Editor (Optional):**  
+   If you’re using **VS Code**, open the project by running:  
+   ```sh
+   code .  
+   ```
+
+### **Run**
+To run the project, follow these steps:
+
+1. Open the `index.html` file in a web browser manually, or use the following command if you have **Live Server** installed in VS Code:
+   ```sh
+   # Run Live Server (VS Code Extension)
+   ```
+   - If using **Live Server**, right-click `index.html` and select **"Open with Live Server"**.
+
+2. If using a simple file path, double-click `index.html` to open it in your browser.
+
+3. To debug or test the **cart functionality**, ensure that `Cart.html` is accessible through the browser.
 
 ### Project Documentation
 For Software:
@@ -42,7 +66,9 @@ For Software:
 ![alt text](image-1.png)
 ![alt text](image-2.png)
 ![alt text](image-3.png)
-
+![alt text](image-4.png)
+![alt text](image-5.png)
+![alt text](image-6.png)
 
 ## Team Contributions
 - Grace John: Platform Development & User Interface, Technical Integrations
