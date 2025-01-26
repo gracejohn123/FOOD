@@ -10,7 +10,7 @@
 - Member 2: Gowri B - SCMS Cochin School of Business
 
 ### Hosted Project Link
-https://github.com/gracejohn123/FOOD/blob/main/README.md
+https://gracejohn123.github.io/FOOD/
 -
 ### Project Description
 go-to platform for discovering amazing deals on surplus food from local restaurants and stores. Not only can you enjoy delicious meals and quality products at discounted prices, but you’re also contributing to reducing food waste and supporting a sustainable future. Where Smart Choices Meet Great Deals.
