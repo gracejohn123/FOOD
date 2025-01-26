@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shopping Cart</title>
+</head>
+<body>
+    <h2>Your Cart</h2>
+    <div id="cartItems"></div>
+
+    <script>
+        function loadCart() {
+            let cart = JSON.parse(localStorage.getItem("cart"));
+            let cartItemsDiv = document.getElementById("cartItems");
+
+            if (cart && cart.length > 0) {
+                cart.forEach(item => {
+                    let productDiv = document.createElement("div");
+                    productDiv.innerHTML = `<p>${item.product} - Quantity: ${item.quantity}</p>`;
+                    cartItemsDiv.appendChild(productDiv);
+                });
+            } else {
+                cartItemsDiv.innerHTML = "<p>Your cart is empty!</p>";
+            }
+        }
+
+        // Load cart when the page is loaded
+        window.onload = loadCart;
+    </script>
+</body>
+</html>
