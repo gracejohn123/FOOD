@@ -15,10 +15,10 @@ https://gracejohn123.github.io/FOOD/
 ### Project Description
 go-to platform for discovering amazing deals on surplus food from local restaurants and stores. Not only can you enjoy delicious meals and quality products at discounted prices, but you’re also contributing to reducing food waste and supporting a sustainable future. Where Smart Choices Meet Great Deals.
 
-### The Problem (that doesn't exist)
+### The Problem 
 In a world where approximately one-third of all food produced is wasted, millions of people face food insecurity daily, and businesses struggle to manage surplus inventory effectively. This contributes to environmental degradation, financial losses, and missed opportunities for community support. Despite growing awareness of sustainability, there is a lack of accessible, affordable, and rewarding platforms that bridge the gap between food waste reduction and consumer needs, leaving untapped potential for both local businesses and eco-conscious individuals.
 
-### The Solution (that nobody asked for)
+### The Solution 
 Introducing Food, the hero we didn’t know we needed. Imagine a world where every leftover biryani, extra loaf of garlic bread, or unsold box of brownies gets a second chance at happiness! With Food, we’re turning food waste into foodie treasure hunts.
 ## Technical Details
 ### Technologies/Components Used
@@ -61,7 +61,7 @@ To run the project, follow these steps:
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
+# Screenshots 
 ![alt text](image.png)
 ![alt text](image-1.png)
 ![alt text](image-2.png)
